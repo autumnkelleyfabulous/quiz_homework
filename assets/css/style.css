@@ -1,0 +1,75 @@
+ body{
+	background: purple;
+	 background-image: url ("https://imgc.allpostersimages.com/img/print/posters/sergey-nivens-image-of-opened-magic-book-with-magic-lights_a-G-12245989-14258396.jpg");
+    background-repeat: repeat;
+    font-family:"cursive";
+    font-size: 18px;
+    line-height: 150%;
+}
+
+.jumbotron{
+	background:orange;
+	color: pink; 
+}
+
+
+/* .question{
+	font-weight: 600;
+}
+.answers {
+    margin-bottom: 20px;
+}
+#submit{
+	font-family: sans-serif;
+	font-size: 20px;
+	background-color: rosybrown;
+	color: #fff;
+	border: 0px;
+	border-radius: 3px;
+	padding: 20px;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+#submit:hover{
+	background-color: mintcream;
+} */
+body {
+    background-image: url("https://imgc.allpostersimages.com/img/print/posters/sergey-nivens-image-of-opened-magic-book-with-magic-lights_a-G-12245989-14258396.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed; 
+} 
+
+h2 {
+    text-align: center;
+    color: magenta;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.option {
+    align-content: center;
+    width: 800px;
+    background-color: rosybrown;
+}
+
+#start {
+    background-color: mintcream;
+}
+
+.jumbotron {
+    margin: 100px;
+  }
+
+ .container {
+    align-content: center;
+   }
+
+p {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 45px;
+}
+
+
+
+
